@@ -8,10 +8,10 @@
 ### Bio
 - ✨ My [portfolio](https:snowby666.github.io)!
 - 🖊️ Love customization, currently exploring Neovim
-- 🧑‍🤝‍🧑 Interacts with open source community
-- ⌨️ Uses `.py`, `.js`, `.css` daily
+- 🧑‍🤝‍🧑 Interact with open source community
+- ⌨️ Use `.py`, `.js`, `.css` daily
 - 💙 Loves using VSCode & OperaGX
-- 🎮 Enjoys video games and music
+- 🎮 Enjoy video games and music
 - ☎️ Get in touch at `giabao070206@gmail.com`
 
 
