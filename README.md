@@ -19,5 +19,5 @@
 
 ![Repo views](https://visitor-badge.glitch.me/badge?page_id=snowby666.dotfiles&left_color=blue&right_color=purple)
 ---
-![](https://raw.githubusercontent.com/snowby666/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/snowby666/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/snowby666/github-stats/master/generated/languages.svg#gh-light-mode-only)
