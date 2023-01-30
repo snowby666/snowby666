@@ -10,7 +10,7 @@
 - 🖊️ Love customization, currently exploring Neovim
 - 🧑‍🤝‍🧑 Interact with open source community
 - ⌨️ Use `.py`, `.js`, `.css` daily
-- 💙 Loves using VSCode & OperaGX
+- 💙 Love using VSCode & OperaGX
 - 🎮 Enjoy video games and music
 - ☎️ Get in touch at `giabao070206@gmail.com`
 
