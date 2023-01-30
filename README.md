@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Mono&pause=2000&color=47EDFF&width=435&lines=Hello%2C+I'm+a+hobbyist+programmer+from+Vietnam)](https://git.io/typing-svg)
+
 ---
 ### Now
 - 💼 Learning Django as main Web Framework and other techs
