@@ -6,7 +6,7 @@
 - 🤝 Open for collab
 
 ### Bio
-- ✨ My [portfolio](https://snowby666.github.io){:target="_blank"}!
+- ✨ My [portfolio](https://snowby666.github.io)!
 - 🖊️ Love customization, currently exploring Neovim
 - 🧑‍🤝‍🧑 Interact with open source community
 - ⌨️ Use `.py`, `.js`, `.css` daily
