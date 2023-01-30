@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Mono&pause=1000&color=47EDFF&width=560&lines=Hello%2C+I'm+a+hobbyist+programmer+from+Vietnam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Mono&pause=1000&color=47EDFF&width=560&lines=Hi+%2C+I'm+a+hobbyist+programmer+from+Vietnam)](https://git.io/typing-svg)
 ---
 ### Now
 - 💼 Learning Django as main Web Framework and other techs
@@ -18,3 +18,6 @@
 <br>
 
 ![Repo views](https://visitor-badge.glitch.me/badge?page_id=snowby666.dotfiles&left_color=blue&right_color=purple)
+---
+![](https://raw.githubusercontent.com/snowby666/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/snowby666/github-stats/master/generated/languages.svg#gh-light-mode-only)
