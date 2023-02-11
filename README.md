@@ -13,7 +13,9 @@
 - 💙 Love using VSCode & OperaGX
 - 🎮 Enjoy video games and music
 - ☎️ Get in touch at `giabao070206@gmail.com`
+- 
 <br>
+
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=snowby666.visitor-badge&left_color=blue&right_color=purple)
 ---
 ![](https://raw.githubusercontent.com/snowby666/github-stats/master/generated/overview.svg#gh-dark-mode-only)
