@@ -5,14 +5,14 @@
 
 <p align="center">
   <!-- Typing SVG by Snowby666 - https://github.com/snowby666/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+fellow+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;Full-stack%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Fira%20Code&center=true&width=440&height=45&color=2076DA&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+fellow+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;Full-stack%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Fira%20Code&center=true&width=440&height=45&color=2076DA&vCenter=true&pause=1000&size=22" />
 </p>
 
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@VisionAIVN/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/609248265929752586" alt="Discord" title="Discord"><img width="32px" src="http://logo-logos.com/2018/03/Discord_icon.png"/></a>
+  <a href="https://discord.com/users/609248265929752586" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/6NrQBBo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/ngodinhgiabao/"><img width="32px" alt="Dev.to" title="Linkedin" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-1024.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -156,11 +156,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/snowby666/poe-api-wrapper/issues/141#issuecomment-2048905439) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-2. 🔒 Closed issue [#137](https://github.com/snowby666/poe-api-wrapper/issues/137) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-3. ❗ Opened issue [#138](https://github.com/snowby666/poe-api-wrapper/issues/138) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-4. 🔒 Closed issue [#131](https://github.com/snowby666/poe-api-wrapper/issues/131) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-5. 🗣 Commented on [#131](https://github.com/snowby666/poe-api-wrapper/issues/131#issuecomment-2022019188) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+1. 🔒 Closed issue [#131](https://github.com/snowby666/poe-api-wrapper/issues/131) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+2. 🗣 Commented on [#131](https://github.com/snowby666/poe-api-wrapper/issues/131#issuecomment-2022019188) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+3. 🔒 Closed issue [#129](https://github.com/snowby666/poe-api-wrapper/issues/129) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+4. 🗣 Commented on [#128](https://github.com/snowby666/poe-api-wrapper/issues/128#issuecomment-2015413720) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+5. 🚀 Published release [v1.4.1](https://github.com/snowby666/poe-api-wrapper/releases/tag/v1.4.1) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
   <!--END_SECTION:activity-->
 
 </details>
