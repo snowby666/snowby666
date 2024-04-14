@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Typing SVG by Snowby666 - https://github.com/snowby666/readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+fellow+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;Full-stack%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Fira%20Code&center=true&width=440&height=45&color=2076DA&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+fellow+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;Student%20in%20Software%20Engineering%20and%20FOSS%20contributor;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Fira%20Code&center=true&width=800&height=45&color=2076DA&vCenter=true&pause=1000&size=22" />
 </p>
 
 <!-- Social icons section -->
