@@ -156,11 +156,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/snowby666/poe-api-wrapper/issues/153#issuecomment-2173904917) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-2. 🔒 Closed issue [#153](https://github.com/snowby666/poe-api-wrapper/issues/153) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-3. 🚀 Published release [v1.4.3](https://github.com/snowby666/poe-api-wrapper/releases/tag/v1.4.3) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-4. 🗣 Commented on [#162](https://github.com/snowby666/poe-api-wrapper/issues/162#issuecomment-2173900277) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-5. 🗣 Commented on [#160](https://github.com/snowby666/poe-api-wrapper/issues/160#issuecomment-2173894297) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+1. 🗣 Commented on [#162](https://github.com/snowby666/poe-api-wrapper/issues/162#issuecomment-2174733062) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+2. 🗣 Commented on [#153](https://github.com/snowby666/poe-api-wrapper/issues/153#issuecomment-2173904917) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+3. 🔒 Closed issue [#153](https://github.com/snowby666/poe-api-wrapper/issues/153) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+4. 🚀 Published release [v1.4.3](https://github.com/snowby666/poe-api-wrapper/releases/tag/v1.4.3) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+5. 🗣 Commented on [#162](https://github.com/snowby666/poe-api-wrapper/issues/162#issuecomment-2173900277) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
   <!--END_SECTION:activity-->
 
 </details>
