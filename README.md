@@ -90,23 +90,28 @@
   <p>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat"></a>
+      <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href"#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
+      <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-       <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
+      <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
+      <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"></a>
       <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white"></a>
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
@@ -120,6 +125,7 @@
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE"></a>
       <a href="#"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"></a>
