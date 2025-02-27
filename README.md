@@ -143,7 +143,7 @@
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="#">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="snowby666's streak" src="https://streak-stats.demolab.com/?user=snowby666&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="snowby666's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=snowby666&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
 
   <h3>💻 GitHub Profile Stats</h3>
