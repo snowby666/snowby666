@@ -162,11 +162,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#221](https://github.com/snowby666/poe-api-wrapper/pull/221) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-2. 🎉 Merged PR [#224](https://github.com/snowby666/poe-api-wrapper/pull/224) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
-3. 🗣 Commented on [#16](https://github.com/dan1471/FREE-openai-api-keys/issues/16#issuecomment-2701393901) in [dan1471/FREE-openai-api-keys](https://github.com/dan1471/FREE-openai-api-keys)
-4. 🗣 Commented on [#16](https://github.com/dan1471/FREE-openai-api-keys/issues/16#issuecomment-2701392340) in [dan1471/FREE-openai-api-keys](https://github.com/dan1471/FREE-openai-api-keys)
-5. 🎉 Merged PR [#219](https://github.com/snowby666/poe-api-wrapper/pull/219) in [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)
+1. 🎉 Merged PR [#9](https://github.com/zukijourney/openshapes/pull/9) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
+2. 💪 Opened PR [#9](https://github.com/zukijourney/openshapes/pull/9) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
+3. 🎉 Merged PR [#8](https://github.com/zukijourney/openshapes/pull/8) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
+4. 💪 Opened PR [#8](https://github.com/zukijourney/openshapes/pull/8) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
+5. 🎉 Merged PR [#7](https://github.com/zukijourney/openshapes/pull/7) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
   <!--END_SECTION:activity-->
 
 </details>
