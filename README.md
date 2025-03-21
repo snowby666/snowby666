@@ -162,11 +162,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/zukijourney/openshapes/pull/16) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
-2. 💪 Opened PR [#16](https://github.com/zukijourney/openshapes/pull/16) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
-3. 🎉 Merged PR [#15](https://github.com/zukijourney/openshapes/pull/15) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
-4. 💪 Opened PR [#15](https://github.com/zukijourney/openshapes/pull/15) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
-5. 🎉 Merged PR [#14](https://github.com/zukijourney/openshapes/pull/14) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
+1. 🎉 Merged PR [#18](https://github.com/zukijourney/openshapes/pull/18) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
+2. 💪 Opened PR [#18](https://github.com/zukijourney/openshapes/pull/18) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
+3. 🎉 Merged PR [#17](https://github.com/zukijourney/openshapes/pull/17) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
+4. 💪 Opened PR [#17](https://github.com/zukijourney/openshapes/pull/17) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
+5. 🎉 Merged PR [#16](https://github.com/zukijourney/openshapes/pull/16) in [zukijourney/openshapes](https://github.com/zukijourney/openshapes)
   <!--END_SECTION:activity-->
 
 </details>
