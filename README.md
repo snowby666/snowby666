@@ -55,6 +55,7 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
     <a href="https://github.com/ading2210/poe-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ading2210&repo=poe-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="poe-api"></a>
+    <a href="https://github.com/SillyTavern/SillyTavern"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SillyTavern&repo=SillyTavern&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="poe-api"></a>
 
   </p>
 
