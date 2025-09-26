@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@VisionAIVN/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://discord.gg/apUUqbxCBQ" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/6NrQBBo.png"/></a>
+  <a target="_blank" href="https://discord.gg/XqyX32Fhx9" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/6NrQBBo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/ngodinhgiabao/"><img width="32px" alt="Dev.to" title="Linkedin" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-1024.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
